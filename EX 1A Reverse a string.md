@@ -14,8 +14,8 @@ To write a program to create a recursive function to reverse a string.
 ```
 /*
 Program to implement Reverse a String
-Developed by: 
-Register Number:
+Developed by: Rexlin R
+Register Number:212222220034
 */
 ```
 ```
