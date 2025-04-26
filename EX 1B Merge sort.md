@@ -4,11 +4,11 @@
 To write a python program to sort the first half of the list using merge sort.
 
 ## Algorithm
-1. 
-2. 
-3. 
-4.  
-5.   
+1. If the array has more than one element, split it into two halves.
+2. Recursively apply merge sort on both halves.
+3.Compare elements of both halves and merge them into a sorted array.
+4.Copy any remaining elements from the left or right half.
+5.Return the fully sorted array.  
 
 ## Program:
 ```
@@ -17,8 +17,9 @@ Program to implement Merge Sort
 Developed by: 
 Register Number:  
 */
+```
 
-
+```
 def merge_sort(inp_arr):
     size = len(inp_arr)
     if size > 1:
